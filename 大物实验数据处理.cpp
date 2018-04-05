@@ -39,7 +39,7 @@ int main()
 {
 	int n;
 	double data[100];
-	cout<<"本软件开源代码地址：https://github.com/Eric12138/College_Physics_Experiment_data_process" <<endl;
+	cout<<"本软件开源代码地址：https://github.com/LoneWolfEric/College_Physics_Experiment_data_process" <<endl;
 	cout<<"输入你的数据的数量：";
 	cin>>n;
 	if(n>100||n<=0)							//增加鲁棒性 
